@@ -10,5 +10,5 @@ kramdown:
   syntax_highlighter: rouge
 
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 
